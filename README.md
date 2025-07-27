@@ -2,6 +2,9 @@
 
 **Budgetify** is a full-stack budget tracking web application built to help users manage their finances effectively. With a modern UI and robust features, it provides a comprehensive view of your income and expenses, all in one place.
 
+## 🎥 Demo Video
+
+[![Watch the video](https://img.youtube.com/vi/dHLjXs84J0s/0.jpg)](https://youtu.be/dHLjXs84J0s)
 ---
 
 ## 🚀 Features
